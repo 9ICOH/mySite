@@ -1,0 +1,9 @@
+
+packages/
+YodaSite/App_Data/
+YodaSite/bin/
+YodaSite/obj/
+YodaSite/Media/
+YodaSite/Umbraco/
+YodaSite/Umbraco_Client/
+YodaSite/aspnet_client
